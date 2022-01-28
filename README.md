@@ -27,4 +27,8 @@ This is a template teaching repository of exercises in building
 
 ## Exercises
 
-### 
+1.  Data visualisation exercise
+
+Given a dataset, create a Shiny app that will read the data and then
+plot/visualise the data and then have interactive buttons to customise
+the visualisation.
